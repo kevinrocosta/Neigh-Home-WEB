@@ -1,0 +1,11 @@
+import './Footer.css';
+
+function Footer() {
+    return (
+        <div className='footer'>
+            <p className='footer_text'>&copy; 2025 Neigh Home. All rights reserved.</p>
+        </div>
+    )
+}
+
+export default Footer;
